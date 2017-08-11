@@ -1,8 +1,4 @@
 123456
 
 add new text
-
-
-tortoisegit
-github
-
+have a good day
